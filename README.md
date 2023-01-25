@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on deploying a web app on AWS with terraform and nginx
-- 🌱 I’m currently learning about the Ops side of the SDLC (specific to data engineering and related applications at the moment)
-- 💬 Reach out to me if you are looking to collaborate on some data engineering work!
-- 📫 How to reach me: alvaro.balkowski@gmail.com
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=rear-triangle&include_all_commits=true&hide_border=true&theme=dark"/>
+</p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rear-triangle&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rear-triangle&langs_count=5&theme=tokyonight)]()
+<!-- <p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rear-triangle&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&"/>
+</p> -->
