@@ -1,7 +1,7 @@
 ### ⚡️  rear-triangle ⚡️
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/?username=rear-triangle&count_private=true&theme=dracula&showicons=true/>
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/?username=rear-triangle&count_private=true&theme=dracula&showicons=true"/>
 </p>
 
 <p align="center">
